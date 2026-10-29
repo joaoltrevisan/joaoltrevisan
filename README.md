@@ -1,6 +1,6 @@
 # João Trevisan
 
-Desenvolvedor em formação com foco em Python, backend, PostgreSQL, APIs REST e engenharia de dados.
+Desenvolvedor Junior com foco em Python, backend, PostgreSQL, APIs REST e engenharia de dados.
 
 ## Projetos em destaque
 
@@ -12,9 +12,3 @@ Desenvolvedor em formação com foco em Python, backend, PostgreSQL, APIs REST e
 ## Tecnologias
 
 Python · Django · Django REST Framework · PostgreSQL · SQL · Docker · GitHub Actions · Pandas · Dash
-
-## Como estou estudando
-
-Estou aprofundando fundamentos de Python, desenvolvimento backend, modelagem de dados, transações, testes automatizados e reprodutibilidade de projetos.
-
-Os projetos descrevem estudos e implementações próprias; funcionalidades simuladas e limitações estão indicadas nos respectivos READMEs.
