@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Trevisan
 
-<!--
-**joaoltrevisan/joaoltrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em Python, backend, PostgreSQL, APIs REST e engenharia de dados.
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Loja: pedidos e estoque](https://github.com/joaoltrevisan/loja-pedidos-estoque) — API Django com pedidos, reserva transacional de estoque, pagamentos simulados, entrega, relatórios e testes.
+- [Order and Inventory Management Service](https://github.com/joaoltrevisan/django-orders-inventory-portfolio) — serviço backend com Django REST Framework, PostgreSQL, JWT, múltiplos vendedores, concorrência e análise de dados Olist.
+- [H&M Menswear Recommendation Pipeline](https://github.com/joaoltrevisan/hm-menswear-recommendation-pipeline) — estudo independente de pipeline de dados e recomendações temporais com Python e PostgreSQL.
+- [SpaceX Falcon 9 Capstone](https://github.com/joaoltrevisan/spacex-falcon9-capstone) — projeto de análise de dados com API, scraping, SQL, Folium, Dash e classificação.
+
+## Tecnologias
+
+Python · Django · Django REST Framework · PostgreSQL · SQL · Docker · GitHub Actions · Pandas · Dash
+
+## Como estou estudando
+
+Estou aprofundando fundamentos de Python, desenvolvimento backend, modelagem de dados, transações, testes automatizados e reprodutibilidade de projetos.
+
+Os projetos descrevem estudos e implementações próprias; funcionalidades simuladas e limitações estão indicadas nos respectivos READMEs.
